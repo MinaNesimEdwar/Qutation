@@ -1,0 +1,24 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.item{
+    border-top-left-radius: 3rem;
+    border-bottom-right-radius: 3rem;
+}
+.icon{
+    width: 3.5rem;
+    height: 3.5rem;
+    background-color: #fec107;
+}
+.myBtn{
+    padding: 10px 20px;
+    border: none;
+    background-color: #fec107;
+    color: white;
+    border-radius: 20px;
+    transition: all .3s;
+}
+.myBtn:hover{
+    background-color: white;
+    color: #fec107;
+}
